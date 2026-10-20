@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploClase</string>
+    <string name="imagen_de_cabecera">Imagen de cabecera</string>
+    <string name="favorito">Favorito</string>
+</resources>
